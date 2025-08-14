@@ -43,9 +43,7 @@ Hoje, temos **mais de 800 m² de área de vendas**, **80 colaboradores** e uma h
 ## 🌐 Onde nos encontrar
 - **📍 Cidade:** Pouso Alegre - MG  
 - **🏢 Fundado em:** 1985  
-- **🔗 Site oficial:** _(em breve)_  
-- **📷 Instagram:** _(em breve)_  
-- **💼 LinkedIn:** _(em breve)_  
+- **📷 Instagram:** https://www.instagram.com/superbonifacio/  
 
 ---
 
